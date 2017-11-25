@@ -1,4 +1,4 @@
-Ondazen.net website based on Hugo and detox theme.
+Ondazen.net website based on Hugo and Detox theme.
 
 Getting Started
 
