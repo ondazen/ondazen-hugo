@@ -1,0 +1,17 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "0.17"
+        theme: detox
+        flags: --buildDrafts=false
+deploy-production:
+    steps:
+        # Execute the s3sync deploy step, a step provided by wercker
+        - s3sync:
+            key_id: $AWS_ACCESS_S3_KEY_ID
+            key_secret: $AWS_ACCESS_S3_KEY_SECRET
+            bucket_url: $AWS_S3_BUCKET_URL
+            source_dir: public/
+            opts: --acl-public --no-ssl --add-header=Cache-Control:max-age=3600
+            delete-removed: true

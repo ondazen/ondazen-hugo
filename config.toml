@@ -1,0 +1,26 @@
+baseURL = "/"
+languageCode = "it-iT"
+title = "Ondazen" 
+theme = "detox"
+paginate = 5
+#canonifyurls = true
+
+#disqusShortname = "detox"
+#googleAnalytics = "UA-123-45"
+#relativeurls = true
+#pluralizelisttitles = false
+
+[params]
+        name = "Ondazen <Spread the knowledge>"
+        description = "Spread the knowledge"
+        #copyright = "MIT"
+        prod_baseurl = "http://ondazen.net"
+        metadescription = "Spread the knowledge"
+
+[permalinks]
+        post = "/:year/:month/:day/:slug"
+
+[params.facebook]
+  facebook = "" 
+[params.youtube]
+  youtube = "channel/UCorUTLXDYPYMQgOoqwBFlFw/" 
