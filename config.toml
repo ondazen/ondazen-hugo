@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "it-iT"
+languageCode = "it-IT"
 title = "Ondazen" 
 theme = "detox"
 paginate = 5
