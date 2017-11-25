@@ -6,7 +6,7 @@ paginate = 5
 #canonifyurls = true
 
 #disqusShortname = "detox"
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-109790085-1"
 #relativeurls = true
 #pluralizelisttitles = false
 
