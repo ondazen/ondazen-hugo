@@ -16,4 +16,8 @@ Giuseppe Sermonti (Roma, 1925) è un biologo e saggista italiano. Laureato in Sc
 
 Secondo l'ipotesi di Sermonti, comunità di uomini (già comparse come tali, cioè Homo sapiens sapiens, sulla Terra) costrette a vivere in condizioni ed ambienti estremi per generazioni siano diventate "estreme" e selvagge esse stesse; in sostanza, tali comunità umane si sarebbero adattate secondo necessità, a livello biologico, psichico e morale, ad un ambiente non più umano, e che dunque non permetteva più all'essere umano di rimanere tale. Tale ipotesi, insieme ad altre ipotesi alternative all'evoluzionismo, in ambienti estranei alla comunità scientifica, è sostenuta anche dal paleontologo dell'Università di Siena Roberto Fondi. 
 
-<center><iframe width="798" height="448" src="https://www.youtube.com/embed/66tyjImU44g?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/66tyjImU44g?rel=0"
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+</div>
+

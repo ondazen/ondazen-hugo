@@ -14,4 +14,8 @@ type = "post"
 
 Paperino nel regno della Matemagica (Donald in Mathmagic Land) è un cartone animato del 1959 diretto da Hamilton Luske. Il cortometraggio divenne ben presto uno dei principali film a scopo educativo prodotti dalla Disney.
 
-<center><iframe width="798" height="448" src="https://www.youtube.com/embed/2oyUCQhD2BM?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/2oyUCQhD2BM?rel=0"
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+</div>
+
