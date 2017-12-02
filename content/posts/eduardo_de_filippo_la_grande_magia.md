@@ -1,7 +1,7 @@
 +++
-title = "Eduardo De Filippo e il paradosso del gatto di Schrödinger"
-description = "Eduardo De Filippo e il paradosso del gatto di Schrödinger"
-tags = [ "documentari", "paleoastronautica" ]
+title = "Eduardo De Filippo e il gatto di Schrödinger"
+description = "Eduardo De Filippo e il gatto di Schrödinger"
+tags = [ "commedie", "fisica", "summa symbolica" ]
 date = "2017-12-02"
 location = ""
 categories = [
