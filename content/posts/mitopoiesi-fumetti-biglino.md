@@ -1,6 +1,6 @@
 +++
-title = "La mitopoiesi del fumetto raccontata da Biglino"
-description = "La mitopoiesi del fumetto raccontata da Biglino"
+title = "La mitopoiesi del fumetto raccontata da Mauro Biglino"
+description = "La mitopoiesi del fumetto raccontata da Mauro Biglino"
 tags = [ "interviste", "paleoastronautica", "Biglino" ]
 date = "2017-12-22"
 location = ""
