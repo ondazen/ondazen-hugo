@@ -1,7 +1,7 @@
 +++
 title = "Le avventure bucoliche di Dafni e Cloè: da Longo Sofista arrivando a Maurice Ravel"
 description = "Le avventure bucoliche di Dafni e Cloè: da Longo Sofista arrivando a Maurice Ravel"
-tags = ["letteratura", "balletto"]
+tags = ["letteratura greca", "balletto", "Maurice Ravel"]
 date = "2018-04-03"
 location = ""
 categories = [
