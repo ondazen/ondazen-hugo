@@ -1,6 +1,6 @@
 +++
-title = "L'acqua possiede una memoria elettromagnetica?"
-description = "L'acqua possiede una memoria eletromagnetica?"
+title = "L'acqua possiede una memoria elettromagnetica"
+description = "L'acqua possiede una memoria eletromagnetica"
 tags = [ "fisica"]
 date = "2018-01-11"
 location = ""
