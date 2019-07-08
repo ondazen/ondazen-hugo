@@ -1,6 +1,6 @@
 +++
-title = "Stralci"
-description = "Stralci"
+title = "Stralci di fine estate"
+description = "Stralci di fine estate"
 tags = [ "racconti" ]
 date = "2018-08-19"
 location = ""
