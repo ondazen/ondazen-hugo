@@ -1,6 +1,6 @@
 +++
-title = "Le avventure amorose di un metrosessuale illuso"
-description = "Le avventure amorose di un metrosessuale illuso"
+title = "Le avventure (semi)amorose di un metrosessuale illuso"
+description = "Le avventure (semi)amorose di un metrosessuale illuso"
 tags = [ "racconti" ]
 date = "2019-07-10"
 location = ""
