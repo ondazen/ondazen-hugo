@@ -103,7 +103,7 @@ Oggigiorno, chi non possiede un account su Whatsapp è considerato un paria, un 
 - Ciao! Grazie per il tuo consiglio. Mi piace la crema. Ha una fragranza inebriante.<br>
 - Ciao! Lo sapevo che ti sarebbe piaciuta.<br>
 - E poi non è particolarmente grassa e va bene per il periodo estivo. Con questo caldo non sono molto invogliato a cospargermi di creme. Lo faccio solo perchè sono irrimediabilmente drogato di profumi.<br>
-- <Faccina che sorride e che strizza l’occhio><br>
+- (Faccina che sorride e che strizza l’occhio)<br>
 - Stai bene?<br>
 - Si, tutto ok. Tu?<br>
 - Si, alla grande.<br>
