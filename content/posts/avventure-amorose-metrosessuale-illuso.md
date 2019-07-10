@@ -20,7 +20,7 @@ Io gli esseri umani di sesso femminile non li capisco proprio. Sono uno di quei 
 - No, no. E’ da un po’ che non passo. Mi sa che stai perdendo qualche colpo.<br>
 - Grazie. Sei gentile!<br>
 - Figurati.<br>
-In realtà, la pollastra (una bella morettona dal carattere estroverso) è ignara del fatto che non è la mia unica fornitrice. Se sapesse che setaccio sistematicamente tutti i negozi simili al suo in un raggio di cinque chilometri, s’imbarazzerebbe al posto mio.<br>
+In realtà, la pollastra (una bella morettona dal carattere estroverso) è ignara del fatto che non è la mia unica fornitrice. Se sapesse che setaccio sistematicamente tutti i negozi simili al suo in un raggio di cinque chilometri, impallidirebbe.<br>
 - Che fragranza hai usato l’ultima volta?<br>
 - A dire il vero non ricordo. Potrebbe essere l’edera, ma non ci giurerei.<br>
 - E poi sono io a perdere colpi.<br>
