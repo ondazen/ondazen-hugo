@@ -1,6 +1,6 @@
 +++
-title = "Scriptum interruptum"
-description = "Scriptum interruptum"
+title = "Un romanzo mai scritto"
+description = "Un romanzo mai scritto"
 tags = [ "racconti" ]
 date = "2019-07-08"
 location = ""
