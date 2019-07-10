@@ -87,9 +87,9 @@ La signora, con aria scocciata, saluta in malomodo ed esce dal negozio, spingend
 - Si, forse tu, con il tuo consumo smodato di creme, sei uno dei clienti più normali che abbia.<br>
 - Grazie. Adesso mi sento più sollevato. Senti, fra qualche giorno parto per gli Stati Uniti. Che ne diresti di uscire una di queste sere, prima che vada via?<br>
 - Certo, perchè no. E dove mi porteresti?<br>
-- Potremmo fare una passeggiata e goderci il clima estivo. Ti vorrei far provare le granite libanesi.<br>
-- Libanesi?<br>
-- Si, sono squisite. Io di solito ne prendo una al cedro con un retrogusto al palissandro.<br>
+- Potremmo fare una passeggiata e goderci il clima estivo. Ti vorrei far provare le granite messinesi, consiglio di un mio collega.<br>
+- Messinesi?<br>
+- Si, sono squisite. Io di solito ne prendo una al cedro con un retrogusto al palissandro e sormontata da tanta panna.<br>
 - Sembra sfiziosa.<br>
 - Si, lo è.<br>
 La morettona, con fare gentile e modi garbati, mi scrive il suo numero di telefono su un pezzo di carta volante trovato nelle vicinanze.<br>
