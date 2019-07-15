@@ -13,7 +13,7 @@ type = "post"
 +++
 
 Una volta un saggio cubano  mi disse: tutto ciò che nasce a Cuba deve rimanere a Cuba.  Al momento non ne compresi il significato,  solo adesso quelle criptiche parole mi risultano apodittiche. Ma procediamo con ordine.  La prima volta che approdai in quel di Cuba fu verso la fine dell’anno 2012. Sono sempre stato affascinato dalla sua recente storia, dal rovesciamento della dittatura del presidente Fulgencio Batista, ad opera del rivoluzionario Fidel Castro, con l’aiuto dei suoi tre uomini più fidati, Raul Castro, suo fratello,  Ernesto Che Guevara, noto semplicemente come el Che, e Camilo Cinfuegos.  La famiglia Castro, come prevedibile, si insediò nelle pieghe del governo del paese, fino a diventarne la padrona assoluta. Da una dittatura a un’altra, insomma.
-Tra gli abitanti dell’isola vi è una paura reverenziale a pronunziare il patronimico di questa famiglia. Tale timore ricorda in modo sorprendente il romanzo di Joanne Rowling, in cui il nome di Lord Voldemort, il mago oscuro antagonista di Harry Potter, non può essere nominato e dalla maggior parte delle persone è chiamato “Colui-Che-Non-Deve-Essere-Nominato”.  Fidel Castro* e suo fratello Raul  sono “Coloro-Che-Non-Devono-Essere-Nominati” .  
+Tra gli abitanti dell’isola vi è una paura reverenziale a pronunziare il patronimico di questa famiglia. Tale timore ricorda in modo sorprendente il romanzo di Joanne Rowling, in cui il nome di Lord Voldemort, il mago oscuro antagonista di Harry Potter, non può essere nominato e dalla maggior parte delle persone è chiamato “Colui-Che-Non-Deve-Essere-Nominato”.  Fidel Castro e suo fratello Raul  sono “Coloro-Che-Non-Devono-Essere-Nominati”.  
 
 Ciò che salta subito all’occhio, una volta sbarcati sull’isola, sono le donne locali: bellissimi esemplari femminili dalla pelle color cappuccino. Per inciso, non tutte le abitanti dell’isola hanno lo stesso colore della pelle: ci si può imbattere in quelle che scambieresti per europee, in quanto i continui processi meiotici con gli occidentali hanno completamente sbiancato il loro gene SLC24A5,  o in quelle dalla carnagione assai scura e trattate in modo sussiegoso dalle mulatte. Infine ci sono loro, le regine incontrastate dell’isola, quelle che riescono a far perdere la testa alla maggior parte dei turisti: le mulatte dalla pelle color cannella e dal profumo di miele (tant’è che coniai il motto “mulata o muerte”). 
 Vedere queste splendide ragazze che vivono e interagiscono in un ambiente  fatiscente, e a volte letteralmente sordido, crea nell’osservatore straniero un’esperienza ossimorica.  “Las princesas en la basura”, solevo spesso ripetermi mentalmente. L’approccio con queste ragazze non risulta particolarmente complicato, anche perché sono loro che - il più delle volte - tentano il primo contatto:<br>
@@ -27,7 +27,7 @@ Vedere queste splendide ragazze che vivono e interagiscono in un ambiente  fatis
 - Mucho gusto, Antonio.<br>
 - Mucho gusto, Marisol.<br>
 
-Questo è l’esempio di un approccio non tanto comune, a dire il vero. Il più delle volte il dialogo che si svolge assume sfumature differenti:
+Questo è l’esempio di un approccio non tanto comune, a dire il vero. Il più delle volte il dialogo che si svolge assume sfumature differenti:<br>
 - Hola. ?Quieres compañia?<br>
 - Hola, claro que si. Que linda eres.<br>
 - Gracias, mi amor. 40 dolares. Esta bien?<br>
