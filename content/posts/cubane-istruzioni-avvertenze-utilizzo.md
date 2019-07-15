@@ -18,6 +18,7 @@ Tra gli abitanti dell’isola vi è una paura reverenziale a pronunziare il patr
 Ciò che salta subito all’occhio, una volta sbarcati sull’isola, sono le donne locali: bellissimi esemplari femminili dalla pelle color cappuccino. Per inciso, non tutte le abitanti dell’isola hanno lo stesso colore della pelle: ci si può imbattere in quelle che scambieresti per europee, in quanto i continui processi meiotici con gli occidentali hanno completamente sbiancato il loro gene SLC24A5,  o in quelle dalla carnagione assai scura e trattate in modo sussiegoso dalle mulatte. Infine ci sono loro, le regine incontrastate dell’isola, quelle che riescono a far perdere la testa alla maggior parte dei turisti: le mulatte dalla pelle color cannella e dal profumo di miele (tant’è che coniai il motto “mulata o muerte”). 
 Vedere queste splendide ragazze che vivono e interagiscono in un ambiente  fatiscente, e a volte letteralmente sordido, crea nell’osservatore straniero un’esperienza ossimorica.  “Las princesas en la basura”, solevo spesso ripetermi mentalmente.  
 L’approccio con queste ragazze non risulta particolarmente complicato, anche perché sono loro che - il più delle volte - tentano il primo contatto:<br>
+
 - Hola. ?Quieres compañia?<br>
 - Hola. Estoy aquí con amigos. Però me gustaría conocerte.<br>
 - ?Vamos a tomar una cerveza?<br>
@@ -27,6 +28,7 @@ L’approccio con queste ragazze non risulta particolarmente complicato, anche p
 - Antonio.<br>
 - Mucho gusto, Antonio.<br>
 - Mucho gusto, Marisol.<br>
+
 Questo è l’esempio di un approccio non tanto comune, a dire il vero. Il più delle volte il dialogo che si svolge assume sfumature differenti:
 - Hola. ?Quieres compañia?<br>
 - Hola, claro que si. Que linda eres.<br>
