@@ -24,7 +24,7 @@ ADRT: Sono stato spinto dapprima dalla curiosità. Ho un amico che utilizzava Ti
 
 IO:  E’ stato un successo fin da subito? O hai dovuto ritoccare qualche impostazione sul tuo profilo?<br>
 ADRT: in realtà ho notato un buon riscontro fin da subito. Ho caricato alcune foto che mostravano le mie passioni (come le moto Harley Davidson) e stralci di vita (foto di viaggi recenti).
-Le foto utilizzate erano state utilizzate in precedenza sul mio profilo Instagram. Mi piace realizzare delle fotografie esteticamente gradevoli. Questo approccio rimane lo stesso anche se non sono io il soggetto della foto. Credo che questa attitudine possa avermi aiutato.
+Le foto utilizzate erano state utilizzate in precedenza sul mio profilo Instagram. Mi piace realizzare delle fotografie esteticamente gradevoli. Questo approccio rimane lo stesso anche se non sono io il soggetto della foto. Credo che questa attitudine mi abbia aiutato.
 
 IO: Qual è, secondo la tua esperienza, la miglior strategia per creare un profilo su Tinder?<br> 
 ADTR: non credo che si possa parlare di miglior strategia. Definire una strategia comporta, infatti,  l’applicazione di un modello, e ciò non è in linea con il mio modo d’essere.  Bisogna cercare di saper vendere la miglior merce di cui si dispone, esaltando i pregi e celando i difetti,  senza creare personaggi fasulli. In quest’ultimo caso si avrebbe vita breve.
