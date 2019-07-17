@@ -19,7 +19,7 @@ Negli ultimi quindici anni l'arte della seduzione si è spostata dai locali nott
 
 L’ADRT (ovvero l’artista del rimorchio su Tinder) che mi accingo a intervistare fa parte della mia cerchia di amicizie e pertanto, per preservare la sua privacy, verrà semplicemente chiamato ADRT.
 
-### IO: Allora, qual è il motivo che ti ha spinto ad avvicinarti a questa piattaforma? Come l’hai conosciuta e quando hai iniziato a usarla?<br>
+##### IO: Allora, qual è il motivo che ti ha spinto ad avvicinarti a questa piattaforma? Come l’hai conosciuta e quando hai iniziato a usarla?<br>
 ADRT: Sono stato spinto dapprima dalla curiosità. Ho un amico che utilizzava Tinder e vedevo che a volte combinava degli appuntamenti con delle ragazze conosciute tramite questa piattaforma. Ero incuriosito nel vedere il tipo di donna che si potesse incontrare. E devo dire che ne rimasi subito colpito. Prima di usarla pensavo che ci fossero molti profili falsi. 
 
 IO:  E’ stato un successo fin da subito? O hai dovuto ritoccare qualche impostazione sul tuo profilo?<br>
@@ -37,7 +37,7 @@ ADRT: Quando segue un match, di solito scrivo a breve giro, guardando le foto pe
 IO: Usi dei rompighiaccio prestabiliti o inizi la conversazione cercando di sfruttare alcuni dettagli che desumi dal profilo del match?<br>
 ADRT: ogni rompighiaccio dovrebbe essere personalizzato, ma, in effetti, a volte si ha di fronte una descrizione del profilo o delle foto dove si desume veramente poco della persona. In quel caso inverto la direzione, esordendo  con un dettaglio delle mie foto per rompere il ghiaccio.
 
-IO:  Dopo quanto tempo sposti la conversazione da Tinder a qualche altra applicazione (es. Whatsapp)? Sei tu che prendi l’iniziativa?i<br>
+IO:  Dopo quanto tempo sposti la conversazione da Tinder a qualche altra applicazione (es. Whatsapp)? Sei tu che prendi l’iniziativa?<br>
 ADRT: sembrerà strano, ma la stragrande maggioranza della volte sono le donne a lasciarmi il numero o a spostarsi su altre piattaforme - ad esempio su Instagram per vedere un maggior numero di foto, oppure su Whatsapp per sentire la voce.  Ciò crea una più intima connessione e in tempi più brevi. Tinder, infatti, non incorpora molte funzionalità.
 
 IO: Qual è la tua percentuale di successo da conversazione online a uscita reale?<br>
