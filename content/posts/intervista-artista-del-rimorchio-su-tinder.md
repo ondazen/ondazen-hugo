@@ -19,7 +19,7 @@ Negli ultimi quindici anni l'arte della seduzione si è spostata dai locali nott
 
 L’ADRT (ovvero l’artista del rimorchio su Tinder) che mi accingo a intervistare fa parte della mia cerchia di amicizie e pertanto, per preservare la sua privacy, verrà semplicemente chiamato ADRT.
 
-IO: Allora, qual è il motivo che ti ha spinto ad avvicinarti a questa piattaforma? Come l’hai conosciuta e quando hai iniziato a usarla?<br>
+#### IO: Allora, qual è il motivo che ti ha spinto ad avvicinarti a questa piattaforma? Come l’hai conosciuta e quando hai iniziato a usarla?<br>
 ADRT: Sono stato spinto dapprima dalla curiosità. Ho un amico che utilizzava Tinder e vedevo che a volte combinava degli appuntamenti con delle ragazze conosciute tramite questa piattaforma. Ero incuriosito nel vedere il tipo di donna che si potesse incontrare. E devo dire che ne rimasi subito colpito. Prima di usarla pensavo che ci fossero molti profili falsi. 
 
 IO:  E’ stato un successo fin da subito? O hai dovuto ritoccare qualche impostazione sul tuo profilo?<br>
