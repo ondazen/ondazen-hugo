@@ -1,6 +1,6 @@
 +++
-title = "Inquietudini di fine serata"
-description = "Inquietudini di fine serata"
+title = "Inquietudini crepuscolari"
+description = "Inquietudini crepuscolari"
 tags = [ "riflessioni" ]
 date = "2019-07-22"
 location = ""
@@ -23,4 +23,4 @@ Mi alzo dal divano, vado in bagno e mi lavo il viso con vigore. Mi strofino i de
 
 Vado in cucina e deglutisco una compressa di melatonina, sperando che possa farmi dormire fino alle prime luci del giorno. E anche se ho la certezza che non funzionerà, questo rituale si perpetua sera dopo sera. Sarebbe bello dormire otto ore di fila. E invece questa maledetta insonnia mi scaraventa giù dal letto, come una moglie farebbe con il marito fedifrago. 
 
-Gli stessi pensieri si presentano nel cuore della notte. Perché non sono in grado di scolpire un blocco di bronzo come Fidia? O di incantare una platea con la mia voce, come soleva fare Franco Corelli? Ma ho la certezza che mi sveglierò e questo senso d’inquietudine svanirà con le prime luci dell’alba, come un onda spazza via i detriti con la sua risacca. E un nuovo giorno mi farà ripiombare in una vita che non avrei volute vivere.
+Gli stessi pensieri si presentano nel cuore della notte. Perché non sono in grado di scolpire un blocco di bronzo come Fidia? O di incantare una platea con la mia voce, come soleva fare Franco Corelli? Ma ho la certezza che mi sveglierò e questo senso d’inquietudine sarà svanito con le prime luci dell’alba, come un onda spazza via i detriti con la sua risacca. E un nuovo giorno mi farà ripiombare in una vita che non avrei volute vivere.
