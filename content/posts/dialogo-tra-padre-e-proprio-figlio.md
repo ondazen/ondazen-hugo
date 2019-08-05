@@ -20,10 +20,10 @@ type = "post"
 “Figliolo,  queste passioni non si addicono a un maschietto alfa. Imparerai ad apprezzarle col tempo.”<br>
 “Ma papà, non ha senso quello che dici! Non voglio uniformarmi a queste stupide passioni. Dovrei invece assecondare il mio emisfero destro.”<br>
 “Figliolo, di cosa stai parlando? Cosa vuoi dire con emisfero destro?”<br>
-“Papà,  l’emisfero destro è quella parte del cervello deputata alla gestione delle emozioni, del senso artistico e della creatività. Ce lo ha spiegato l’insegnante di scienze.”<br>
+“Papà,  l’emisfero destro è quella parte del cervello deputata alla gestione delle emozioni, del senso artistico e della creatività. Ce l'ha spiegato l’insegnante di scienze.”<br>
 “Figliolo, sono tutte scemenze. Nel cervello di un uomo devono albergare solo due sentimenti: quello calcistico e quello per i motori.”<br>
 “Papà, a volte penso che se fossi stato cresciuto da una coppia gay sarebbe stato meglio.”<br>
-“Figliolo, non mancarmi di rispetto. Lo sai che ce la sto mettendo tutta per crescerti nel migliore dei modi”.<br>
+“Figliolo, non mancarmi di rispetto. Lo sai che ce la sto mettendo tutta per crescerti nel migliore dei modi.”<br>
 “Scusa, papà. Non volevo essere offensivo. Ti propongo una cosa: domani portami in piscina e passiamo un pomeriggio differente.”<br>
 “D’accordo figliolo. Trascorreremo un’intera giornata noi due soli senza mamma e potrai chiedermi tutto ciò che vorrai.”<br>
 L’indomani in piscina:<br>
@@ -55,5 +55,5 @@ I due si posizionano - braccio contro braccio - e cominciano a spingere:<br>
 Dopo alcuni secondi d’intensa contrazione muscolare, il ragazzo ipertrofico capitola sotto i colpi incessanti del coraggioso padre, che lo ringrazia e torna dal figlio con aria soddisfatta.<br>
 “Papà, sicuro di non aver combinato l’incontro? Mi sembra così strano che tu abbia vinto con questa facilità.”<br>
 “Figliolo, dubitavi della mia possanza fisica? Dietro questi strati adiposi si celano fasce muscolari impressionanti.”<br>
-“Papà, dopotutto tu sei e sarai sempre il mio super eroe.”<br>
+“Papà, dopotutto tu sei e sarai sempre il mio super eroe”.<br>
 
