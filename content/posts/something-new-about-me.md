@@ -1,7 +1,7 @@
 +++
 title = "Something new about me"
 description = "Something new about me"
-tags = [ "Lettere" ]
+tags = [ "Pensieri" ]
 date = "2019-08-24"
 location = ""
 categories = [
