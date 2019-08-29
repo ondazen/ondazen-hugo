@@ -16,7 +16,7 @@ Ho uno strano rapporto con i libri. Maniacale. Quasi feticista. Diciamocela tutt
 
 E  ciò mi capita anche quando sono in visita in un paese con un idioma a me inaccessibile. Il solo fatto di vedere dei libri, anche in una lingua a me totalmente estranea,  mi scatena un’irrefrenabile desiderio di sfogliarli, di annusarli, di possederli. E si, perché a me non piace solo leggerli, mi da appagamento anche accarezzarli e odorarli. Quanto mi inebria l’odore della carta appena stampata. E’ così sublime per il mio olfatto. 
 
-Questa mia passione non nasce con me, l’ho sviluppata in età giovanile, subito dopo aver terminato il liceo.  Dopo le lezioni all’università, solevo andare a studiare i miei tomi di matematica in biblioteca. Ed è li che ho iniziato a diventare un vorace divoratore di libri. 
+Questa mia passione non nasce con me, l’ho sviluppata in età giovanile, subito dopo aver terminato il liceo.  Dopo le lezioni all’università, ero solito andare a studiare i miei tomi di matematica in biblioteca. Ed è li che ho iniziato a diventare un vorace divoratore di libri. 
 
 I libri sono i miei compagni di viaggio su questo piccolo pianeta. Mi tengono per mano con le loro storie.  Mi cullano con le loro metriche.  Mi viziano con i loro lieti fini. E talvolta mi rendono irrequieto, mi spaventano e mi feriscono. Ma fa parte della loro intrinseca natura.
 
