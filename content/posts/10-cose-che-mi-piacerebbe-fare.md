@@ -28,6 +28,6 @@ type = "post"
 
 8.Passeggiare per la grande muraglia cinese e sedermi di tanto in tanto su un gradino ad osservare l’infinito circostante.
 
-9.Contemplare la via lattea e le galassie circostanti dall’osservatorio astronomico di Cerro Paranal.  Confondermi tra i miliardi di puntini luminosi chiamati stelle e perdere definitivamente la mia identità. 
+9.Contemplare la via lattea e le galassie vicine dall’osservatorio astronomico di Cerro Paranal.  Confondermi tra i miliardi di puntini luminosi chiamati stelle e perdere definitivamente la mia identità. 
 
 10.Trovare una ragazza "speciale” con cui fare tutte le cose sopra descritte.
