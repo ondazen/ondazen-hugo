@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-1-Percorre a ritroso la via della seta, lungo la quale nell’antichità si snodavano i commerci tra l’ impero cinese e quello romano. Passeggiare per le vie dell’antica città di Samarcanda, visitando le Madrase e i suoi mausolei, e assaporare la sua antica storia.
+1-Percorrere a ritroso la via della seta, lungo la quale nell’antichità si snodavano i commerci tra l’ impero cinese e quello romano. Passeggiare per le vie dell’antica città di Samarcanda, visitando le Madrase e i suoi mausolei, e assaporare la sua antica storia.
 
 2-Fare un’immersione nella grande barriera corallina al largo della costa del Queensland. Inebriarmi dei suoi colori e stupirmi delle sue variegate e multiformi specie.
 
