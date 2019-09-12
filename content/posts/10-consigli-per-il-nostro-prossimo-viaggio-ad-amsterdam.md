@@ -16,7 +16,7 @@ type = "post"
 
 2.Ad Amsterdam c’è il più elevato numero di musei al mondo in proporzione alla dimensione della città e al numero di abitanti. Ti piace l’arte? Abbiamo l’imbarazzo della scelta. Sicuramente il più battuto è il museo di Van Gogh, che contiene le sue opere più importanti tra cui il vaso con i quindici girasoli e la camera di Vincent ad Arles. 
 
-3.Vuoi fare un giro in battello nel canale di Singel? Amsterdam è costruita snu una rete di canali artificiali lunga più di cento chilometri, che collega 90 isole con 1500 ponti. Impressionante, vero?
+3.Vuoi fare un giro in battello nel canale di Singel? Amsterdam è costruita su una rete di canali artificiali lunga più di cento chilometri, che collega 90 isole con 1500 ponti. Impressionante, vero?
 
 4.Ad Amsterdam il mezzo di trasporto più diffuso è la bicicletta.  Si può dire che sia diventata la capitale mondiale della bici. I pedoni sono avvertiti. Le biciclette sfrecciano ovunque. Pedaliamo anche noi?
 
