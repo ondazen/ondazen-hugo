@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-1.Il clima di Amsterdam è molto variabile. Nell’arco di una giornata puoi sperimentare le quattro stagioni. Ricordati di vestirti a cipolla. E in caso di pioggia, l’ombrello risulta superfluo a causa del vento.  Gli amsterdamiani, a tal proposito, hanno un detto: “noi non siamo fatti di zucchero!” Divertente, vero?
+1.Il clima di Amsterdam è molto variabile. Nell’arco di una giornata puoi sperimentare le quattro stagioni. Ricordati di vestirti a cipolla. E in caso di pioggia, l’ombrello risulta superfluo a causa del vento.  Gli amsterdamiani, a tal proposito, hanno un detto: “non siamo fatti di zucchero!” Divertente, vero?
 
 2.Ad Amsterdam c’è il più elevato numero di musei al mondo in proporzione alla dimensione della città e al numero di abitanti. Ti piace l’arte? Abbiamo l’imbarazzo della scelta. Sicuramente il più battuto è il museo di Van Gogh, che contiene le sue opere più importanti tra cui il vaso con i quindici girasoli e la camera di Vincent ad Arles. 
 
