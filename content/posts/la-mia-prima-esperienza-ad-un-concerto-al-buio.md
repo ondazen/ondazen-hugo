@@ -19,5 +19,5 @@ Il pubblico presente in sala è eterogeneo. Quasi tutte le poltrone sono occupat
 
 Dopo<br>
 La prima impressione dopo il concerto non è certamente negativa. Anzi. La luce si è affievolita fino a scomparire del tutto  dopo dieci minuti dall’inizio. 
-Le sonorità iniziali sono state molto minimaliste e ricercate. Nel periodo di buio pesto, però, Picco ha iniziato ad improvvisare musica jazz, portando il livello di coinvolgimento emotivo ad un piano più superficiale. Mi sarei aspettato di vivere il buio come una suggestione prenatale, ascoltando sonorità maggiormente evocative. Un cuore pulsante, accompagnato solo da note essenziali, ad esempio. Ad ogni modo, l’esperienza è stata sicuramente positiva.
+Le sonorità iniziali sono state molto minimaliste e ricercate. Nel periodo di buio pesto, però, Picco ha iniziato ad improvvisare musica jazz, portando il livello di coinvolgimento emotivo ad un piano più superficiale. Mi sarei aspettato di vivere il buio come una suggestione prenatale, ascoltando sonorità maggiormente evocative. Un cuore pulsante, accompagnato solo da note essenziali, ad esempio. Ad ogni modo, l’esperienza è stata sicuramente suggestiva.
 
