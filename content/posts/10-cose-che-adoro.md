@@ -24,7 +24,7 @@ type = "post"
 
 6-Adoro annusare un libro fresco di stampa e far scorrere velocemente le sue pagine.
 
-7-Adoro fissare il tramonto, pensando che la vita possa essere rinchiusa in quel singolo istante.
+7-Adoro fissare il tramonto, pensando che la vita possa essere racchiusa in quel singolo istante.
 
 8-Adoro guardare le nuvole, che mutano continuamente, sospinte dalle correnti.
 

@@ -14,7 +14,7 @@ type = "post"
 
 Ho uno strano rapporto con i libri. Maniacale. Quasi feticista. Diciamocela tutta! La mia è una vera e propria ossessione.  Un’ansia da possesso. Quando passo davanti a una libreria non riesco a resistere. Sono attratto come un magnete attrae il suo polo opposto. O come un bambino è attratto da un iPad.  
 
-E  ciò mi capita anche quando sono in visita in un paese con un idioma a me inaccessibile. Il solo fatto di vedere dei libri, anche in una lingua a me totalmente estranea,  mi scatena un’irrefrenabile desiderio di sfogliarli, di annusarli, di possederli. E si, perché a me non piace solo leggerli, mi da appagamento anche accarezzarli e odorarli. Quanto mi inebria l’odore della carta appena stampata. E’ così sublime per il mio olfatto. 
+E  ciò mi capita anche quando sono in visita in un paese con un idioma a me inaccessibile. Il solo fatto di vedere dei libri, anche in una lingua a me totalmente estranea,  mi scatena un irrefrenabile desiderio di sfogliarli, di annusarli, di possederli. E si, perché a me non piace solo leggerli, mi da appagamento anche accarezzarli e odorarli. Quanto mi inebria l’odore della carta appena stampata. E’ così sublime per il mio olfatto. 
 
 Questa mia passione non nasce con me, l’ho sviluppata in età giovanile, subito dopo aver terminato il liceo.  Dopo le lezioni all’università, ero solito andare a studiare i miei tomi di matematica in biblioteca. Ed è li che ho iniziato a diventare un vorace divoratore di libri. 
 
