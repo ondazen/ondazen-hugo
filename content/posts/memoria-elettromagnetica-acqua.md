@@ -23,7 +23,7 @@ Escludendo il caso sperimentale, nel quale le provette sono state sottoposte a u
 
 In quest’ottica si collocano anche gli studi del ricercatore Masaru Emoto, conosciuto per i suoi esperimenti sulla memoria dell'acqua, teoria secondo la quale sussisterebbe una relazione tra i pensieri umani e vari stati dell'acqua considerata a una temperatura convenzionale di -4 °C. Egli sostiene di avere documentato con fotografie il fatto che i cristalli assumano una forma armonicamente simmetrica o, al contrario, caotica e disordinata, in conseguenza dell'energia cui vengono esposti; sia essa sotto forma di suono (voce e musica) o pensiero. In buona sostanza tali ricerche sono riconducibili alle stesse proprietà scoperte da Montagnier. 
 
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+<!--<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
   <iframe src="//www.youtube.com/embed/4VhAvKLE1go"
   style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
-</div>
+</div>-->
