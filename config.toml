@@ -22,5 +22,5 @@ paginate = 5
 
 #[params.facebook]
 #  facebook = "" 
-[params.youtube]
-  youtube = "channel/UCorUTLXDYPYMQgOoqwBFlFw/" 
+#[params.youtube]
+#  youtube = "channel/UCorUTLXDYPYMQgOoqwBFlFw/" 
