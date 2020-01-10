@@ -1,7 +1,7 @@
 +++
 title = "Ricordi d'infanzia"
 description = "Ricordi d'infanzia"
-tags = [ "riflessioni" ]
+tags = [ "ricordi" ]
 date = "2020-01-10"
 location = ""
 categories = [
