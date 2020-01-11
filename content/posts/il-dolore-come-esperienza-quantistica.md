@@ -29,5 +29,5 @@ Y: Ti trovo così interessante. <BR>
 I: Ma? <BR>
 Y: Mi hai conosciuto in un momento sbagliato della mia vita. <BR> 
 I: Addio. Ti auguro tutto il meglio dal profondo del mio cuore. <BR>
-Y: Ti auguro di essere felice, non importa in che modo. <BR>
+Y: Ti auguro di essere felice, non importa come. <BR>
 
