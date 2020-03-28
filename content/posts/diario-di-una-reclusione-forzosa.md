@@ -1,7 +1,7 @@
 +++
 title = "Diario di una reclusione forzosa"
 description = "Diario di una reclusione forzosa"
-tags = [ "Racconti" ]
+tags = [ "Racconto" ]
 date = "2020-03-28"
 location = ""
 categories = [
