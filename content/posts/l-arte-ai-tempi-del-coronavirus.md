@@ -43,7 +43,7 @@ Non ho come riferimento nessun artista contemporaneo. Preferisco trarre spunti d
 
 <b>D: Dalle tue opere traspare tutta la marcescenza dell’essere umano. C’è stato un evento in particolare che ti ha portato ad avere una visione così negativa della realtà?</b>
 
-R: Sono un attento osservatore della realtà. Non voglio apparire pessimista, ma il mondo in cui viviamo non è un luogo incantato dove tutti si vogliono bene e si rispettano. Sono affascinato dalla psiche umana e da alcuni comportamenti esclusivi dell essere umano.
+R: Sono un attento osservatore della realtà. Non voglio apparire pessimista, ma il mondo in cui viviamo non è un luogo incantato dove tutti si vogliono bene e si rispettano. Sono affascinato dalla psiche umana e da alcuni comportamenti esclusivi dell'essere umano.
 
 <b>D: Quanto c’è di biografico nelle tue opere? Hai mai realizzato degli autoritratti?</b>
 
