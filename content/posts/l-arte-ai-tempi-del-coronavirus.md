@@ -66,7 +66,7 @@ Esiste, però, un fil rouge che accomuna la maggior parte degli artisti, a presc
 
 Giuseppe, grazie per il tempo che ci hai dedicato.
 
-<a href:https://www.instagram.com/perinartofficial/>GUARDA LE RECENTI OPERE DI PERINA'</a>
+<a href="https://www.instagram.com/perinartofficial/">GUARDA LE RECENTI OPERE DI PERINA'</a>
 
 
 
