@@ -56,9 +56,11 @@ R: Quando dipingo, non ho una musa ispiratrice da cui traggo lo slancio creativo
 Sono stato cresciuto da mia madre e mia sorella, e questa forte componente femminile presente nei miei primi anni di vita ha fatto si che abbia sviluppato una certa sensibilità evolutasi poi nella pittura. Cerco di autoanalizzarmi, perché dipingere per me è una sorta di autoterapia. Nell’arte degli ultimi secoli è impossibile negare che le donne abbiano avuto un influenza fondamentale.
 
 <b>D: Qual è, a tuo avviso, il rapporto tra etica ed estetica? In che modo l’una influenza l’altra?</b>
+
 R: Il rapporto tra etica ed estetica varia in base al periodo storico in cui ci troviamo. Ai giorni nostri ritengo che si possa rappresentare quasi tutto. Il buon gusto nel far coesistere entrambe gli aspetti nasce dalla sensibilità dell’autore, in grado di rendere esteticamente passabile qualcosa che alla gente può sembrare ripugnante. I pubblicitari sono maestri in questo tipo di rappresentazione. Dal mio punto di vista l’arte deve essere un atto di violenza, che deve scuotere le masse per educarle. 
 
 <b>D: per concludere vorrei chiederti cosa ne pensi dell’attuale situazione artistica in Italia?</b>
+
 R: Non sono aggiornato sulla situazione artistica italiana. Preferisco seguire gli artisti nord europei, molto affini alla mia sensibilità artistica. 
 Esiste, però, un fil rouge che accomuna la maggior parte degli artisti, a prescindere dalla loro nazionalità. L’arte, dopotutto, rappresenta lo "zeit geist”, lo spirito del nostro tempo.  
 
