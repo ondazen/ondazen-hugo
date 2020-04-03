@@ -52,7 +52,7 @@ Al momento non sono interessato a ritrarre. E’ un aspetto della pittura che ho
 
 <b>D: Qual è l’importanza della musa ispiratrice nelle tue opere? Che rapporto hai con le donne?</b>
 
-R: Quando dipingo, non ho una musa ispiratrice da cui traggo lo slancio creativo, come, ad esempio, poteva esserlo per Picasso. 
+R: Quando dipingo, non ho una musa ispiratrice da cui traggo lo slancio creativo, come, ad esempio, poteva essere per Picasso. 
 Sono stato cresciuto da mia madre e mia sorella, e questa forte componente femminile presente nei miei primi anni di vita ha fatto si che abbia sviluppato una certa sensibilità evolutasi poi nella pittura. Cerco di autoanalizzarmi, perché dipingere per me è una sorta di autoterapia. Nell’arte degli ultimi secoli è impossibile negare che le donne abbiano avuto un influenza fondamentale.
 
 <b>D: Qual è, a tuo avviso, il rapporto tra etica ed estetica? In che modo l’una influenza l’altra?</b>
