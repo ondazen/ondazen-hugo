@@ -47,7 +47,7 @@ R: Sono un attento osservatore della realtà. Non voglio apparire pessimista, ma
 
 <b>D: Quanto c’è di biografico nelle tue opere? Hai mai realizzato degli autoritratti?</b>
 
-R: Nella mia pittura non c’è nulla di biografico a livello conscio. Esiste, però,  il fenomeno del transfert, dove inconsciamente l’autore trasferisce le proprie esperienze nelle sue opere. Per quanto riguarda i ritratti, non mi ritengo un bravo ritrattista. Per ritrarre veramente bisogna entrar nell'animo del soggetto, cogliere ogni singola sfumatura. Non si tratta di tecnica ma di empatia. Modigliani era molto chiaro su questo. Diceva che se non si percepisce l’anima del soggetto, non è possibile ritrarre fedelmente.
+R: Nella mia pittura non c’è nulla di biografico a livello conscio. Esiste, però,  il fenomeno del transfert, dove inconsciamente l’autore trasferisce le proprie esperienze nelle sue opere. Per quanto riguarda i ritratti, non mi ritengo un bravo ritrattista. Per ritrarre veramente bisogna entrar nell'animo del soggetto, cogliere ogni singola sfumatura. Non si tratta di tecnica ma di empatia. Modigliani era molto chiaro su questo. Diceva che se non si percepisce l’animo del soggetto, non è possibile ritrarre fedelmente.
 Al momento non sono interessato a ritrarre. E’ un aspetto della pittura che ho sondato quando ero più giovane. Non ho nulla contro i ritrattisti iperrealisti,  ma oggi esistono altri strumenti per far ciò. Diverso è il mio pensiero verso quegli artisti che, mediante la loro ricerca pittorica, interpretano un soggetto ritraendolo.
 
 <b>D: Qual è l’importanza della musa ispiratrice nelle tue opere? Che rapporto hai con le donne?</b>
