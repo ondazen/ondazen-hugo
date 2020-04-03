@@ -64,5 +64,13 @@ R: Il rapporto tra etica ed estetica varia in base al periodo storico in cui ci 
 R: Non sono aggiornato sulla situazione artistica italiana. Preferisco seguire gli artisti nord europei, molto affini alla mia sensibilità artistica. 
 Esiste, però, un fil rouge che accomuna la maggior parte degli artisti, a prescindere dalla loro nazionalità. L’arte, dopotutto, rappresenta lo "zeit geist”, lo spirito del nostro tempo.  
 
+Giuseppe, grazie per il tempo che ci hai dedicato.
+
+<a href:https://www.instagram.com/perinartofficial/>GUARDA LE RECENTI OPERE DI PERINA'</a>
+
+
+
+
+
 
 
