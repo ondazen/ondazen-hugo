@@ -26,7 +26,7 @@ L’essere umano ricerca l’evasione mentale quando fisicamente non può muover
 
 <b>D: Un’ultima domanda su ciò che sta accadendo. Che cosa cambierà a livello sociale nei prossimi mesi? Questa pandemia riuscirà a stravolgere le nostre abitudini, tipiche di un popolo latino?</b>
 
-R: Sicuramente nel breve periodo continuerà a persistere un distanziamento sociale, dettato dalla paura di un ritorno al contagio. Col tempo, però, si ritornerà ad una situazione di normalità e le nostre abitudini di popolo caloroso e affettuoso prevarranno. 
+R: Sicuramente nel periodo di ripristino alla normalità, continuerà a persistere un distanziamento sociale, dettato dalla paura di un ritorno al contagio. Col tempo, però, si ritornerà ad una situazione di normalità e le nostre abitudini di popolo caloroso e affettuoso prevarranno. 
 
 <b>D: A che età e in quale circostanza hai capito di avere un talento pittorico?</b>
 
