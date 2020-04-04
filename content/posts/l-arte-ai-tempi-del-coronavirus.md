@@ -62,7 +62,7 @@ R: Il rapporto tra etica ed estetica varia in base al periodo storico in cui ci 
 <b>D: per concludere vorrei chiederti cosa ne pensi dell’attuale situazione artistica in Italia?</b>
 
 R: Non sono aggiornato sulla situazione artistica italiana. Preferisco seguire gli artisti nord europei, molto affini alla mia sensibilità artistica. 
-Esiste, però, un fil rouge che accomuna la maggior parte degli artisti, a prescindere dalla loro nazionalità. L’arte, dopotutto, rappresenta lo "zeit geist”, lo spirito del nostro tempo.  
+Esiste, però, un <i>fil rouge</i> che accomuna la maggior parte degli artisti, a prescindere dalla loro nazionalità. L’arte, dopotutto, rappresenta lo <i>zeit geist</i>, lo spirito del nostro tempo.  
 
 Giuseppe, grazie per il tempo che ci hai dedicato.
 
