@@ -11,11 +11,11 @@ paginate = 5
 #pluralizelisttitles = false
 
 [params]
-        name = "Ondazen <Reflections of life>"
-        description = "Reflections of life"
+        name = "Ondazen <Spunti di vita>"
+        description = "Spunti di vita"
         #copyright = "MIT"
         prod_baseurl = "http://ondazen.net"
-        metadescription = "Reflections of life"
+        metadescription = "Spunti di vita"
 
 [permalinks]
         post = "/:year/:month/:day/:slug"
