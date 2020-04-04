@@ -2,13 +2,13 @@
 <nav role="pagination" class="pagination">
   {{ if .Paginator.HasPrev }}
   <a href="{{.Paginator.Prev.URL}}" class="newer-posts">
-    <i class="fa fa-angle-double-left"></i>&nbsp;Newer&nbsp;
+    <i class="fa fa-angle-double-left"></i>&nbsp;Post più recenti&nbsp;
   </a>
   {{ end }}
 	<span class="post-list-pagination-item post-list-pagination-item-current">Page {{.Paginator.PageNumber}} of {{.Paginator.TotalPages}}</span>
 {{ if .Paginator.HasNext }}
   <a href="{{.Paginator.Next.URL}}" class="older-posts">
-    &nbsp;Older&nbsp;<i class="fa fa-angle-double-right"></i>
+    &nbsp;Post più vecchi&nbsp;<i class="fa fa-angle-double-right"></i>
   </a>
 {{ end }}
 </nav>
