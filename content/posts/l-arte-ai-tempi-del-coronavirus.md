@@ -14,9 +14,9 @@ type = "post"
 
 Giuseppe, in arte Perinà, è un artista classe 1980, cresciuto in una zona popolare della periferia milanese. Oggi ho il piacere di porgli una breve intervista, per approfondire meglio sia il suo lato artistico che quello più intimo. 
 
-<b>D: Incominciamo con una domanda di attualità. In che modo questa pandemia influenzerà il tuo processo creativo?</b>
+<b>D: Incominciamo con una domanda di attualità. In che modo questa pandemia sta influenzando il tuo processo creativo?</b>
 
-R: Per quel che riguarda il mio modo di dipingere, penso che non ci saranno cambiamenti sostanziali. Probabilmente questa tematica andrà ad aggiungersi al tipo di ricerca che ho intrapreso già da molti anni. Per quanto riguarda l’arte in generale, penso che questa situazione complicherà la gestione e la realizzazione di alcune esibizioni artistiche, almeno nel breve periodo, visto che l’arte è anche aggregazione.
+R: Per quel che riguarda il mio modo di dipingere, non ci sono cambiamenti sostanziali. Probabilmente questa tematica andrà ad aggiungersi al tipo di ricerca che ho intrapreso già da molti anni. Per quanto riguarda l’arte in generale, penso che questa situazione complicherà la gestione e la realizzazione di alcune esibizioni artistiche, almeno nel breve periodo, visto che l’arte è anche aggregazione.
 
 <b>D: L’isolamento forzato, a cui siamo sottoposti tutti in questo periodo, ha stimolato la tua spinta creativa e quella degli artisti in generale?</b>
 
