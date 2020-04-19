@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-"La malinconia è la gioia di sentirsi tristi".
+"La malinconia è la gioia di sentirsi tristi". Questo aforisma di Victor Hugo sembra adattarsi bene al brano di Dustin O'Halloran dal titolo Opus 37, tratto dall'album Piano Solos Vol. 2.  
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
   <iframe src="//www.youtube.com/embed/L9Yv7GmTzQU"
