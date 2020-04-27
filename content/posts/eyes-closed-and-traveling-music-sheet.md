@@ -19,6 +19,6 @@ Questo album rappresenta la collaborazione tra la grandiosità dello spazio acus
 
 La chiesa di Grunewald, grazie al suo scopritore, Nils Frahm, che ne ha fatto il suo tempio musicale, è diventata il paradiso per un’intera generazione di compositori contemporanei.
 
-In allegato è presente la trascrizione del brano Eyes closed and traveling, che ho cercato di mantenere il più possibile simile all’originale. Ad ogni modo sono accolti con piacere suggerimenti e commenti.
+In allegato è presente la trascrizione del brano Eyes closed and traveling, che ho cercato di mantenere il più possibile simile all’originale.
 
 <a href="http://ondazen.net/pdf/Eyes_closed_and_traveling_music_sheet.pdf" download>EYES CLOSED AND TRAVELING MUSIC SHEET</a>
