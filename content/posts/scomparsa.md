@@ -1,7 +1,7 @@
 +++
 title = "Scomparsa"
 description = "Scomparsa"
-tags = [ "Musica" ]
+tags = [ "Riflessioni" ]
 date = "2020-05-09"
 location = ""
 categories = [
