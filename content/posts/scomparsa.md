@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-Sei scomparsa, come scompare la carezza di una dolce brezza marina in una tiepida mattina primaverile.<br>
+Sei scomparsa, come scompare la carezza di una dolce brezza marina in una tiepida mattina di primavera.<br>
 
 Sei scomparsa, come scompare l’ultimo raggio di sole che lambisce lo specchio d’acqua di un fiume al tramonto.<br>
 
