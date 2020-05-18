@@ -30,7 +30,7 @@ R: Sicuramente nel periodo di ripristino alla normalità, continuerà a persiste
 
 <b>D: A che età e in quale circostanza hai capito di avere un talento pittorico?</b>
 
-R: Mi ricordo che da bambino disegnavo con i pennarelli sui tovaglioli di carta e inventavo giocattoli costosi che vedevo alla televisione ma che non potevo permettermi.  Una sera, durante l’ora di cena, presi una bella sgridata dai miei genitori per questo mio spreco smodato di tovaglioli, che utilizzavo per riprodurre ciò che vedevo nei film. Mia madre, a quel punto, decise di regalarmi un album di fogli, che consumai voracemente con schizzi che, ad oggi, non avrebbero fatto pensare ad una futura passione pittorica. Intorno ai dodici anni, la mia insegnante di scuola mi disse che avrei potuto disegnare ciò che volevo, al contrario della maggior parte miei compagni. Mi sentivo in imbarazzo per questo motivo. Amavo semplicemente disegnare.
+R: Mi ricordo che da bambino disegnavo con i pennarelli sui tovaglioli di carta e inventavo giocattoli costosi che vedevo alla televisione ma che non potevo permettermi.  Una sera, durante l’ora di cena, presi una bella sgridata dai miei genitori per questo mio spreco smodato di tovaglioli, che utilizzavo per riprodurre ciò che vedevo nei film. Mia madre, a quel punto, decise di regalarmi un album di fogli, che consumai voracemente con schizzi che, ad oggi, non avrebbero fatto presagire a una futura passione pittorica. Intorno ai dodici anni, la mia insegnante di scuola mi disse che avrei potuto disegnare ciò che volevo, al contrario della maggior parte miei compagni. Mi sentivo in imbarazzo per questo motivo. Amavo semplicemente disegnare.
 
 <b>D: C’è stato qualcuno in particolare che ti ha spinto a coltivare questo tuo talento?</b>
 
