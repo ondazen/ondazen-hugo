@@ -16,9 +16,7 @@ Immagina un virus che causa la perdita graduale e completa di quattro dei nostri
 
 In principio si manifesta la perdita dell’olfatto, preceduta da un senso di sopraffazione dal dolore. Cosa sarebbe la nostra vita senza poter annusare l’aroma inebriante e dolce emanata dalla pelle di un neonato durante le prime settimane di vita o l’odore dell’erba bruciata dal sole, che ci riporta alle afose giornate estive della nostra infanzia? L’olfatto e la memoria sono collegate al nostro cervello. Senza questo senso una pletora di immagini passate svanirebbe come pioggia in un oceano.
 
-Successivamente si verifica la perdita del gusto, preceduta da una sensazione di terrore e da una fame incontrollata, che spinge a inghiottire qualsiasi sostanza che abbia una consistenza masticabile.
-Cosa sarebbe la nostra vita senza poter inondare le nostre papille gustative  
-di quei cibi che ci riportano indietro nel tempo, fino a retrocedere ai primi istanti di vita?
+Successivamente si verifica la perdita del gusto, preceduta da una sensazione di terrore e da una fame incontrollata, che spinge a inghiottire qualsiasi sostanza che abbia una consistenza masticabile. Cosa sarebbe la nostra vita senza poter inondare le nostre papille gustative di quei cibi che ci riportano indietro nel tempo, fino a retrocedere ai primi istanti di vita?
 
 Poi arriva il momento della perdita uditiva, preceduta da una irrefrenabile rabbia, collera e odio. Cosa sarebbe la nostra vita senza poter più ascoltare il suono del violino, che ricorda un dolce lamento umano, e le prime parole di un bambino che chiama il suo papà?
 
