@@ -21,6 +21,6 @@ Successivamente si verifica la perdita del gusto, preceduta da una sensazione di
 Poi arriva il momento della perdita uditiva, preceduta da una irrefrenabile rabbia, collera e odio. Cosa sarebbe la nostra vita senza poter più ascoltare il suono del violino, che ricorda un dolce lamento umano, e le prime parole di un bambino che chiama il suo papà?
 
 Infine svanisce la vista. Ma prima di perderla si sperimenta un amore parossistico per la vita, si prova una forte empatia per il prossimo, una sensazione di calore, di comprensione, di accettazione e di perdono. 
-Il mondo perderebbe i propri confini e i colori. Tutto sarebbe un’unica macchia nera, indistinta e incontrastata.
+Il mondo perde i propri confini e i colori. Tutto diventa un’unica macchia nera, indistinta e incontrastata.
 
 Cosa sarebbe un essere umano senza questi sensi? Forse sperimenterebbe altre percezioni ma sicuramente si precluderebbe tanta bellezza.
