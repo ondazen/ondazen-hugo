@@ -18,7 +18,7 @@ Cerco qualche spuntone per potermi arrampicare. I mattoni sono disposti vertical
 
 Inizia a mancarmi l’aria. Vorrei urlare a squarciagola. Ma perché sprecare fiato, tanto nessuno potrà sentirmi. Mi accoscio. Ho una gran paura. Inizio a tremare e a piangere silenziosamente. Per quanto tempo potrò durare in questa condizione.
 
-I pensieri si fanno cupi. Turbinano come vortici provocati da una ventosa quando si sgorga un lavandino. Ripercorro mentalmente la mia vita. Ho così tanti rimpianti. Vorrei aver preso decisioni differenti. Forse in questo pozzo non ci sarei finito. “Smettila!”, grido dentro di me. Oramai è troppo tardi per le recriminazioni. Devo trovare il modo di uscire da qui. 
+I pensieri si fanno cupi. Turbinano come vortici provocati da una ventosa quando sgorga una conduttura. Ripercorro mentalmente la mia vita. Ho così tanti rimpianti. Vorrei aver preso decisioni differenti. Forse in questo pozzo non ci sarei finito. “Smettila!”, grido dentro di me. Oramai è troppo tardi per le recriminazioni. Devo trovare il modo di uscire da qui. 
 
 Mi appoggio con la schiena sulla parete cilindrica. Le mie gambe sono rannicchiate a causa della mancanza di spazio. Provo a chiudere gli occhi ma non noto alcuna differenza. Un senso di rassegnata disperazione pervade ogni cellula del mio intirizzito corpo.
 
