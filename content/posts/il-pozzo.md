@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-Sono dentro a un pozzo. Alzo lo sguardo verso l’alto per cercare una fonte luminosa. Il pozzo è troppo profondo e io mi trovo alla sua base. Solo buio. Un buio disorientante e prenatale. Sento il battito del mio cuore. Tic-toc. Tic-toc. Il mio respiro è amplificato. Mi rimbomba nei timpani. Mi assorda con il suo ritmo incalzante e ripetitivo. 
+Sono dentro un pozzo. Alzo lo sguardo verso l’alto per cercare una fonte luminosa. Il pozzo è troppo profondo e io mi trovo alla sua base. Solo buio. Un buio disorientante e prenatale. Sento il battito del mio cuore. Tic-toc. Tic-toc. Il mio respiro è amplificato. Mi rimbomba nei timpani. Mi assorda con il suo ritmo incalzante e ripetitivo. 
 
 Cerco qualche spuntone per potermi arrampicare. I mattoni sono disposti verticalmente. Prima la mano destra, poi il piede sinistro. Procedo in questo modo per qualche metro. Un affioramento roccioso mi agevola la salita. Poi il manto si fa liscio. Non ho più modo di aggrapparmi. Rimango incrodato, così decido di fare un salto verso il basso e di tornare alla condizione di partenza. 
 
