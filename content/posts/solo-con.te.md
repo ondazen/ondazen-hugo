@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-Sono chiuso in una stanza con te. È un spazio completamente vuoto, arredato solo con i colori delle pareti. Con uno slancio si può toccare il soffitto, tappezzato di faretti a basso consumo. La luce produce uno strano effetto, simile al crepitìo di una candela. Un tiepido calore si diffonde da un aeratore posto all’estremità di una  parete. Non c’è modo di aprire una finestra. Non ce ne sono. Anche la porta è serrata. Non c’è modo di uscire. 
+Sono chiuso in una stanza con te. È un spazio completamente vuoto, arredato solo con i colori delle pareti. Con uno slancio si può toccare il soffitto, tappezzato di faretti a basso consumo. La luce produce uno strano effetto, simile al crepitìo di una candela. Un tiepido calore si diffonde da un aeratore posto all’estremità più alta di una parete. Non c’è modo di aprire una finestra. Non ce ne sono. Anche la porta è serrata. Non c’è modo di uscire. 
 
 Mi parli, ma percepisco solo il movimento delle tua labbra. Ti tocchi un orecchino e ti aggiusti una ciocca di capelli. Ti osservo, come se osservassi un rituale ancestrale, messo in pratica fin dalla notte dei tempi. Una piccola macchia sul tuo incisivo, forse causata dall’uso prolungato di un collutorio alla clorexidina, cattura la mia attenzione, fino a diventare una vera e propria ossessione. Le tue mani continuano a gesticolare, disegnando immaginarie figure geometriche. Lo smalto rosso vivo delle tue unghie mi provoca uno stato di euforia. Noto solo adesso quanto sia pregiata la montatura dei tuoi occhiali, prodotta con un carapace di tartaruga. Metti in bocca una stanghetta e la fai oscillare, come oscilla il pendolo di Focault per descrivere il moto rotatorio della Terra. 
 
