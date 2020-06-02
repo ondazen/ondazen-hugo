@@ -1,5 +1,5 @@
 +++
-title = "L'odore della pioggio"
+title = "L'odore della pioggia"
 description = "L'odore della pioggia"
 tags = [ "Riflessioni" ]
 date = "2020-06-02"
