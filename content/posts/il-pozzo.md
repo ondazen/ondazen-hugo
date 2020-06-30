@@ -25,3 +25,8 @@ Mi appoggio con la schiena sulla parete cilindrica. Le mie gambe sono rannicchia
 Poi i miei ritmi vitali aumentano. Inizio a consumare più ossigeno del dovuto. Un  attacco di panico prende il sopravvento. Sono in affanno. Mi manca l’aria. Avverto la disfatta alle porte. Il battito cardiaco accelera. Sto per perdere i sensi…
 
 Mi risveglio in superficie. Non ho idea di cosa mi sia successo né perché mi trovi lì. La poca illuminazione lascia scorgere un cielo ammantato da miliardi di puntini luminosi. Provo un gran freddo ma sono felice di essere ancora vivo.  
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/PEg3TAaJDvQ"
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+</div>
