@@ -18,4 +18,7 @@ Sei sdraiato su un tappeto di lana annodato a mano. Lo trovi così morbido e con
 
 Ti svegli nel cuore della notte, con un senso di tristezza per non essere realmente quel nomade. La temperatura si è abbassata ulteriormente e batti i denti per il gelo. Decidi comunque di rimanere in quella condizione. Così cerchi di riaddormentarti per ricongiungerti con la tua amata sposa farsi, ma in cuor tuo sai che non la rivedrai mai più.
 
-
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/L9Yv7GmTzQU"
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+</div>
