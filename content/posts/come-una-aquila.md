@@ -24,3 +24,7 @@ Osservo il rinascere della natura. La fioritura procede a velocità accelerata, 
 
 Anche il sole procede, nella sua discesa, ad una velocità raddoppiata. Gli ultimi raggi di sole lasciano il posto ad un cielo aranciato che rimpiange le sue vestigia.  Mi unisco ad uno stormo di uccelli che migra verso sud e perdo definitivamente la mia identità. Finalmente sono libero. 
 
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/QkV2QXPu754"
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+</div>
