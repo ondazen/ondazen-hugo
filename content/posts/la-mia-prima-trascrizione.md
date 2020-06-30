@@ -1,6 +1,6 @@
 +++
-title = "Eyes closed and traveling"
-description = "Eyes closed and traveling"
+title = "La mia prima trascrizione"
+description = "La mia prima trascrizione"
 tags = [ "Musica" ]
 date = "2020-04-27"
 location = ""
