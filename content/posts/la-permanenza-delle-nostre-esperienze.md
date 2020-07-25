@@ -1,6 +1,6 @@
 +++
-title = "La permanzenza delle nostre esperienze"
-description = "La permanzenza delle nostre esperienze"
+title = "La permanenza delle nostre esperienze"
+description = "La permanenza delle nostre esperienze"
 tags = [ "Riflessioni" ]
 date = "2020-07-25"
 location = ""
