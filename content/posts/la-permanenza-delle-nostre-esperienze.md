@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-Uno. Due. Uno. Due. Cerco di spostarmi saltando con il piede destro sulla piastrella di tonalità scura e con il piede sinistro sulla piastrella di tonalità chiara. È un gioco che facevo da bambino, quando, camminando per le strade della mia città, evitavo di calpestare le strisce pedonali e tutti i segnali impressi sull’asfalto. 
+Uno. Due. Uno. Due. Cerco di spostarmi saltando con il piede destro sulla piastrella di tonalità scura e con il piede sinistro su quella di tonalità chiara. È un gioco che facevo da bambino, quando, camminando per le strade della mia città, evitavo di calpestare le strisce pedonali e tutti i segnali impressi sull’asfalto. 
 
 Unisco i piedi, scendo i gradini rimbalzandoci sopra. Non é una gran trovata: le mie consumate ginocchia risentono dei contraccolpi. Le prime vertebre lombari urlano a gran voce di piantarla. Ciò porta la mia memoria indietro negli anni: quanto tempo trascorso a praticare sport. Mi sono letteralmente consumato. Le cuffie dei rotatori sono compromesse e ciò mi causa una ridotta mobilità della spalla. 
 
