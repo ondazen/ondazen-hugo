@@ -2,7 +2,7 @@
 title = "La luce della conoscenza"
 description = "La luce della conoscenza"
 tags = [ "Riflessioni" ]
-date = "2019-08-16"
+date = "2020-08-16"
 location = ""
 categories = [
   "",
