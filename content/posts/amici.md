@@ -1,8 +1,8 @@
 +++
 title = "Amici"
 description = "Amici"
-tags = [ "Riflessioni" ]
-date = "2020-20-12"
+tags = [ "Riflessione" ]
+date = "2020-12-20"
 location = ""
 categories = [
   "",
