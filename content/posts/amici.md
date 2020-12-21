@@ -20,4 +20,4 @@ A dire il vero, non ho mai conosciuto un essere umano con la sua tempra e la sua
 
 Ha anche altre due caratteristiche peculiari, che difficilmente ho riscontrato in altri esseri umani: la sua proverbiale capacità nel risolvere qualsiasi tipo di problema e la sua innata propensione nell’imparare le lingue straniere. Un esempio? Viaggiare e sopravvivere con una manciata di euro, in qualsiasi paese si trovi. 
 
-È stato un dono prezioso conoscerti. Spero che questa nostra amicizia possa durare in eterno. 
+È stato un dono prezioso conoscerti. Spero che questa nostra amicizia possa durare ancora per molto tempo. 
