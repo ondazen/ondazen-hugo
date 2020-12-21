@@ -2,7 +2,7 @@
 title = "Amici"
 description = "Amici"
 tags = [ "Riflessione" ]
-date = "2020-12-20"
+date = "2020-12-21"
 location = ""
 categories = [
   "",
