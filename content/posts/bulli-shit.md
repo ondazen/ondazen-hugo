@@ -24,6 +24,6 @@ La giornata volge quasi al suo termine. L’oscurità ha oramai inghiottito i co
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/KkZC15EmTJc""
-  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube video"></iframe>
 </div>
 
