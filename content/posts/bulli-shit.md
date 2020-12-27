@@ -21,3 +21,9 @@ Il primo martire è un giovane ragazzo allampanato, con i capelli scarmigliati e
 I successivi martiri sono una tenera coppia di amanti, che procede sussurrandosi smielate parole all’orecchio. La loro distrazione li conduce dritti nella tana del lupo. Lei porta al collo una di quelle cuffie all’ultima moda, che ricoprono l’intero padiglione auricolare. Spiccano per il loro colore dorato, che le fa sembrare un oggetto ancora più desiderato. Il giovane uomo si frappone tra i persecutori e la sua indifesa amata, e per questo suo gesto riceve un pugno nello sterno, che lo fa ricalcitrare con una smorfia di soffocante dolore. Un altro bottino è stato espropriato da questi moderni corsari. 
 
 La giornata volge quasi al suo termine. L’oscurità ha oramai inghiottito i contorni della dormiente città. È ora di rientrare nelle rispettive dimore. Il capo branco ha diritto di scelta sul piccolo bottino acquisito. Poi tocca al secondo della gerarchia e così via. Sanno che l’indomani gli approvvigionamenti saranno ancora migliori, perché il terrore che riescono ad instillare li rende invincibili. Ma le ferite provocate non guariranno facilmente in chi le ha subite. Un giorno una di queste cicatrici potrebbe riacutizzarsi, e solo allora la paura provata dagli aguzzìni sarà di gran lunga superiore di quella inferta.
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/KkZC15EmTJc""
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+</div>
+
