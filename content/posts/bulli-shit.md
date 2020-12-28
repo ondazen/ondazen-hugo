@@ -1,6 +1,6 @@
 +++
-title = "Bulli-shit"
-description = "Bulli-shit"
+title = "Bull[i]shit"
+description = "Bull[i]shit"
 tags = [ "Racconto" ]
 date = "2020-12-27"
 location = ""
