@@ -1,6 +1,6 @@
 +++
-title = "Odissea di un viaggio senza fine (da una storia vera)"
-description = "Odissea di un viaggio senza fine (da una storia vera)"
+title = "Odissea di un viaggio senza fine"
+description = "Odissea di un viaggio senza fine"
 tags = [ "Racconto" ]
 date = "2021-01-01"
 location = ""
