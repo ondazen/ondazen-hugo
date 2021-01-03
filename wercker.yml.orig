@@ -5,6 +5,8 @@ build:
         version: "0.15"
         theme: detox
         flags: --buildDrafts=false
+	dockerhub_login: $DOCKERHUB_LOGIN
+	dockerhub_password: $DOCKERHUB_PASSWORD
 deploy-production:
     steps:
         # Execute the s3sync deploy step, a step provided by wercker
