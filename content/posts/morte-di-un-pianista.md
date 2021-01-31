@@ -2,7 +2,7 @@
 title = "Morte di un pianista"
 description = "Morte di un pianista"
 tags = [ "Racconto" ]
-date = "2020-01-31"
+date = "2021-01-31"
 location = ""
 categories = [
   "",
