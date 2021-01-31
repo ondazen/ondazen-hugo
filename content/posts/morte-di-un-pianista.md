@@ -19,3 +19,8 @@ La sua giornata iniziava intorno alle dieci. Dopo una frugale colazione a base d
 Il pomeriggio lo dedicava ad un pisolino, che lo avrebbe aiutato a rimanere sveglio ed arzillo fino a tarda notte. Dopo una doccia ristoratrice ed un goccio di Bourbon, era pronto ad iniziare la sua serata lavorativa: il 28Di Vino, il Bebop, il Cotton Club, il Big Mama, il Gregory’s e l’Alexanderplatz erano i suoi templi. Tutti lo volevano e tutti se lo contendevano per le loro serate di punta. Il suo nome in cartellone era garanzia di tutto esaurito. Il pubblico impazziva nel vederlo interpretare i grandi classici del jazz con il suo personalissimo stile, che coniugava una formazione classica con una forte tendenza innovativa. Il suo modo di tenere i polsi arcuati, sebbene potesse essere giudicato da qualsiasi insegnante un errore d’impostazione, conferiva ai tasti un suono delicato e allo stesso tempo deciso. Le sue performance terminavano con delle vere e proprie acclamazioni, seguite da un paio di bis, che lo congedavano dalla scena.
 
 La lontananza dal suo palcoscenico gli ha fermato il cuore. Una sera qualunque di un dicembre freddo ed austero, durante una delle sue consegne da asporto, che gli permettevano di sopravvivere al prolungato “lockdown”, l’auto lo lasciò in panne. Così provò a farla ripartire spingendola, ma il suo fisico gracile non resse all’intenso sforzo. Lentamente si adagiò al suolo ed esalò le sue ultime note. 
+
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/plqRgdtySkc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube video"></iframe>
+</div>
