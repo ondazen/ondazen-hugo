@@ -20,7 +20,7 @@ Il pomeriggio lo dedicava ad un pisolino, che lo avrebbe aiutato a rimanere sveg
 
 La lontananza dal suo palcoscenico gli ha fermato il cuore. Una sera qualunque di un dicembre freddo ed austero, durante una delle sue consegne da asporto, che gli permettevano di sopravvivere al prolungato “lockdown”, l’auto lo lasciò in panne. Così provò a farla ripartire spingendola, ma il suo fisico gracile non resse all’intenso sforzo. Lentamente si adagiò al suolo ed esalò le sue ultime note. 
 
-
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/plqRgdtySkc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube video"></iframe>
+  <iframe src="https://www.youtube.com/embed/plqRgdtySkc""
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube video"></iframe>
 </div>
