@@ -35,5 +35,5 @@ Ho appena inviato una email al mio capo, vomitandogli addosso tutto ciò che non
 Butto giù queste annotazioni finali come testimonianza dei miei buoni propositi. Sono trascorsi 288 giorni. Domani avverrà l’impatto con l’asteroide. Vi chiederete cosa ho fatto in questi ultimi nove mesi e mezzo. 
 A dire il vero, niente di che. I primi giorni sono stati i più concitati.  Avrei voluto viaggiare, ma le città di tutto il mondo sono state prese d’assalto da organizzazioni anarchiche. La maggior parte delle donne che ho incrociato in giro, aveva un foulard che le ricopriva gran parte del viso e inneggiava alla fine del potere costituito. Sono rimasto rintanato in casa per salvarmi la pelle. Sembra un paradosso, visto che domani la pelle la perderemo tutti.
  
-Oggi, mentre scrivo queste ultime parole, ho deciso di uscire e di rinchiudermi all’interno di uno Starbucks (o, meglio, di quello che rimane del locale). Una giovane e avvenente donna si avvicina e mi prende per mano, ammiccandomi. La mia solita fortuna del c%#zo!
+Oggi, mentre scrivo queste ultime parole, ho deciso di uscire e di rinchiudermi in uno Starbucks (o, meglio, quello che rimane del locale). Una giovane e avvenente donna si avvicina e mi prende per mano, ammiccandomi. La mia solita fortuna del c%#zo!
 
