@@ -11,11 +11,11 @@ paginate = 5
 #pluralizelisttitles = false
 
 [params]
-        name = "Ondazen <Laboratorio di scrittura creativa>"
-        description = "Laboratorio di scrittura creativa"
+        name = "Ondazen <Fucina di scrittura creativa>"
+        description = "Fucina di scrittura creativa"
         #copyright = "MIT"
         prod_baseurl = "http://ondazen.net"
-        metadescription = "Laboratorio di scrittura creativa"
+        metadescription = "Fucina di scrittura creativa"
 
 [permalinks]
         post = "/:year/:month/:day/:slug"
