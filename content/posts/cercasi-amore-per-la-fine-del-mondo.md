@@ -19,12 +19,14 @@ Forse dovrei rivedere le mie priorità: mangiare un vasetto di gelato alla nocci
 Ho trent’anni. Pensavo di avere ancora tutta la vita davanti per trovare il vero amore. Chi lo avrebbe mai detto che la nostra civiltà si sarebbe  estinta in questo ignominioso modo alla fine dell’anno 2021. Non voglio demoralizzarmi e perdere la speranza. Annoto sul mio taccuino:
 
 *Cose che mi restano da fare*
+
 1.  Trovare una brava ragazza, onorarla e rispettarla finché morte non ci separi (quindi molto presto).
 2.  Trascorrere assieme una settimana a Bali, bighellonando tra i mercatini all’aperto e le spiagge dei surfisti.
 3.  Provare l’ebrezza di un “ménage à trois” (in tempi normali forse sarebbe complicato ma in questo particolare frangente dovrebbe andar via liscio).
 4.  Avere un amplesso davanti agli occhi stupefatti dei miei familiari (no dai, sto scherzando. Mai perdere il senso dello humour).
 
 *Luoghi in cui incontrare una brava ragazza*
+
 1. Librerie? Forse non è più adeguato come luogo d’incontro. I libri saranno l’ultimo dei pensieri per il genere umano.
 2. Locali notturni? Può essere. Troppo bui e chiassosi, però. Non fanno per me.
 3. Palestre? Vedi librerie.
