@@ -18,6 +18,6 @@ Vi chiederete come vivo, come conduco la mia giornata e cosa mangio, ad esempio.
 
 Ma torniamo a noi. Comunicare con il linguaggio del corpo è stato il primo passo. Vi domanderete come abbia fatto una donna svizzera di lingua tedesca a raccontarsi ad un uomo africano di lingua maa. All’inizio è stato davvero molto complicato. Lui non ha mai osato esprimersi nella mia lingua. Al contrario, io mi sono sempre sforzata di imparare nuove parole, fino a formulare frasi di senso compiuto. Il tempo mi ha aiutato ad emettere quei bizzarri suoni che costituiscono la loro fonetica. 
 
-Oggi, sebbene il mio fenotipo sia molto diverso dalle donne locali, sono a tutti gli effetti una masai. Vivo a stretto contatto con la natura, rispettandola e integrandomi con essa, mi occupo della cucina (mangiamo in prevalenza verdure e tuberi cotti accompagnati da polenta di mais), aiuto a costruire le loro tipiche abitazioni - impastando sterco di vacca e sabbia - per i nuovi parenti acquisiti, filo abiti variopinti per i bambini del villaggio e ci prendiamo cura l’uno dell’altro.
+Oggi, sebbene il mio fenotipo sia molto diverso dalle donne locali, sono a tutti gli effetti una masai. Vivo a stretto contatto con la natura, rispettandola e integrandomi ad essa, mi occupo della cucina (mangiamo in prevalenza verdure e tuberi cotti accompagnati da polenta di mais), aiuto a costruire le loro tipiche abitazioni - impastando sterco di vacca e sabbia - per i nuovi parenti acquisiti, filo abiti variopinti per i bambini del villaggio e ci prendiamo cura l’uno dell’altro.
 
-Io ho avuto il coraggio di cambiare vita e adesso non potrei più tornare indietro. Tu lo faresti?
+Io ho avuto il coraggio di cambiare vita e adesso non potrei più tornare indietro. Voi lo fareste?
