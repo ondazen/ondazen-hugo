@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-La seguente telefonata è stata effettuata da me per conto di un amico. Il dialogo è avvenuto in lingua inglese. Il mio interlocutore è un ragazzo indiano di Bangalore con un master in Business Administration ed un accento estremamente fastidioso.
+La seguente telefonata è stata effettuata da me per conto di un amico. Il dialogo è avvenuto in lingua inglese. Il mio interlocutore è un ragazzo indiano di Bangalore con un master in <i>Business Administration</i> ed un accento estremamente fastidioso.
 
 
 -Pronto?<br>
@@ -25,7 +25,7 @@ La seguente telefonata è stata effettuata da me per conto di un amico. Il dialo
 -D’accordo. Quando possiamo incontrarci?<br>
 -Prima devo verificare che sei la persona che dichiari di essere: che giorno abbiamo pattuito la consegna della merce?<br>
 -Il mio amico dice che non avete mai preso accordi a tal proposito.<br>
--Certo che avevamo preso accordi. Chi sei? Lavori per il fisco?<br>
+-Certo che avevamo preso accordi. Chi sei? Lavori per qualche servizio segreto?<br>
 -Lavoro in un ufficio postale.<br>
 -Quindi sei un infiltrato governativo...<br>
 -Peso i pacchi e pago la pensione agli anziani.<br>
