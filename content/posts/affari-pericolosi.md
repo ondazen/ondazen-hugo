@@ -30,7 +30,7 @@ La seguente telefonata è stata effettuata da me per conto di un amico. Il dialo
 -Quindi sei un infiltrato governativo...<br>
 -Peso i pacchi e pago la pensione agli anziani.<br>
 -Puoi dimostrarmelo?<br>
--Ti mando una foto con il mio capoufficio.<br>
+-Ti mando una foto assieme al mio capoufficio.<br>
 -Allora aspetto la foto.<br>
 
 Chiudo la telefonata, tergiverso con il mio amico, gli invio una foto recuperata da <i>google image</i> e dopo pochi minuti lo ricontatto.
