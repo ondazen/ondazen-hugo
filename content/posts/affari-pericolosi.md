@@ -33,7 +33,7 @@ La seguente telefonata è stata effettuata da me per conto di un amico. Il dialo
 -Ti mando una foto con il mio capoufficio.<br>
 -Allora aspetto la foto.<br>
 
-Chiudo la telefonata, tergiverso con il mio amico, gli invio una foto recuperata da google image e dopo pochi minuti lo ricontatto.
+Chiudo la telefonata, tergiverso con il mio amico, gli invio una foto recuperata da <i>google image</i> e dopo pochi minuti lo ricontatto.
 
 -Pronto? Hai ricevuto la foto?<br>
 -Si, sembra tutto a posto.<br>
