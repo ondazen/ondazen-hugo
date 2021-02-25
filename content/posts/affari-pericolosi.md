@@ -44,7 +44,7 @@ Chiudo la telefonata, tergiverso con il mio amico, gli invio una foto recuperata
 -Quando e dove possiamo vederci?<br>
 -Vediamoci in un luogo molto affollato. È più sicuro.<br>
 -Va bene. Puoi darmi anche un’indicazione temporale?<br>
--Domani mattina al Mall. Di al tuo amico di venire da solo e di non portare con se il cellulare. In questo modo i suoi spostamenti non verranno tracciati.<br>
+-Domani mattina al Mall. Dì al tuo amico di venire da solo e di non portare con se il cellulare. In questo modo i suoi spostamenti non verranno tracciati.<br>
 -Ma se non ti trova e aveste bisogno di comunicare?<br>
 -Sarò io a trovarlo. Digli di non preoccuparsi di nulla.<br>
 -D’accordo. A domani.<br>
