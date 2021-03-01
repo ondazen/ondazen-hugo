@@ -18,4 +18,4 @@ Adesso convive con me, acquattato davanti la porta di casa. Le sue fibre di cocc
 
 A volte, però, non viene utilizzato per il fine per cui è stato fabbricato. Viene snobbato, scavalcato, trascurato. Funge solo da complemento estetico, senza un ruolo ben definito all’interno della società. In questo contesto viene fuori tutta la sua frustrazione: si rinsecchisce, inizia a perdere la sua resistenza e si abbandona all’oblio. E quando pensa che sia arrivata la sua ora, si presentano al suo cospetto un paio di stivali con la punta rinforzata e i salva tacchi. Di nuovo torna a rinvigorirsi e a sentirsi utile.
 
-Ho un rapporto d’amore e odio con il mio zerbino. A volte dimentico la sua presenza. A volte la perdita delle sue fibre causano una fastidiosa sporcizia, ma non potrei mai vivere senza di lui.
+Ho un rapporto d’amore e odio con il mio zerbino. A volte dimentico la sua presenza. A volte la perdita delle sue fibre causa una fastidiosa sporcizia, ma non potrei mai vivere senza di lui.
