@@ -21,7 +21,7 @@ La signora Baratro non esce mai a pranzo con i suoi colleghi. Consuma i rimasugl
 
 La signora Baratro, dopo aver desinato, si concentra sulle sue scartoffie fino all’orario di uscita, evitando qualsiasi tipo di distrazione. Ripone il cellulare nella sua borsa finto Prada e indossa un paio di auricolari che la isolano da qualsiasi rumore esterno. A volte anche il suo capo ha difficoltà a rintracciarla e deve recarsi alla sua scrivania per poter comunicare con lei.
 
-La signora Baratro esce alle diciassette spaccate dall’ufficio, anche se si trova immersa nella ricerca di atti che hanno la massima urgenza. Questa precisione ha spinto i suoi colleghi a regalarle una maglietta con il numero 17 sulla schiena, simile a quella che indossano i calciatori durante le partite. 
+La signora Baratro esce alle diciassette spaccate dall’ufficio, anche se si trova immersa nella ricerca di atti processuali che hanno la massima urgenza. Questa precisione ha spinto i suoi colleghi a regalarle una maglietta con il numero 17 sulla schiena, simile a quella che indossano i calciatori durante le partite. 
 
 La signora Baratro, una volta rincasata,  segue un rituale molto particolare: beve il suo tè, rinforzato con del vermut rosso e del gin, usando una cannuccia di plastica resistente, acquistata durante un suo giovanile viaggio in Cina. Il rituale del tè risale a diversi anni prima, quando fu abbandonata sull’altare dal suo compagno di classe del liceo nonché fidanzato storico. Da allora, sia che si tratti di giorni feriali o festivi, Natale, Pasqua o la festa dell’assunzione di Maria, sorseggia il suo intruglio alcolico, fino a lasciarsi cadere in uno stordimento sensoriale. 
 
