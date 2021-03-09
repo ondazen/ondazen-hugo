@@ -19,7 +19,7 @@ che le fornisce preziosi consigli su come accalappiare piacenti uomini tramite a
 
 La signora Baratro non esce mai a pranzo con i suoi colleghi. Consuma i rimasugli della sera precedente - solitamente del pollo lesso accompagnato da verdure bollite e qualche galletta di mais rinsecchita - leggendo un romanzo erotico dozzinale, acquistato al mercatino dell’usato, che si svolge in prossimità della sua abitazione ogni domenica di fine mese.
 
-La signora Baratro, dopo aver desinato, si concentra sulle sue scartoffie fino all’ora di uscita, evitando qualsiasi tipo di distrazione. Ripone il cellulare nella sua borsa finto Prada e indossa un paio di auricolari che la isolano da qualsiasi rumore esterno. A volte anche il suo capo ha difficoltà a rintracciarla e deve recarsi alla sua scrivania per poter comunicare con lei.
+La signora Baratro, dopo aver desinato, si concentra sulle sue scartoffie fino all’orario di uscita, evitando qualsiasi tipo di distrazione. Ripone il cellulare nella sua borsa finto Prada e indossa un paio di auricolari che la isolano da qualsiasi rumore esterno. A volte anche il suo capo ha difficoltà a rintracciarla e deve recarsi alla sua scrivania per poter comunicare con lei.
 
 La signora Baratro esce alle diciassette spaccate dall’ufficio, anche se si trova immersa nella ricerca di atti che hanno la massima urgenza. Questa precisione ha spinto i suoi colleghi a regalarle una maglietta con il numero 17 sulla schiena, simile a quella che indossano i calciatori durante le partite. 
 
