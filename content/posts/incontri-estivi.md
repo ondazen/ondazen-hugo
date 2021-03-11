@@ -12,7 +12,7 @@ slug = ""
 type = "post"
 +++
 
-#### #### Dedicato a Mar, ovvero la signorina Baratro ####
+###### Dedicato a Mar, ovvero la signorina Baratro
 
 La mia prima esperienza con le app di dating risale a circa due anni fa, prima che l’attuale condizione pandemica gettasse le vite di tutti in un isolamento senza fine. L’imminente estate, data per torrida, mi portò ad optare per una meta insolita: l’Austria. Era da tempo che desideravo prendere parte al <i>Salzburger Festspiele</i>, il più importante festival di musica classica che si tiene in Europa durante il periodo estivo. Il suo inizio è decretato solennemente dallo sventolio di centinaia di bandierine rosse e bianche su tutti gli autobus cittadini e dallo srotolio dei tappeti rossi davanti ai teatri. 
 
