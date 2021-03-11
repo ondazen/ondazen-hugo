@@ -12,8 +12,6 @@ slug = ""
 type = "post"
 +++
 
-###### Dedicato a Mar, ovvero la signorina Baratro
-
 La mia prima esperienza con le app di dating risale a circa due anni fa, prima che l’attuale condizione pandemica gettasse le vite di tutti in un isolamento senza fine. L’imminente estate, data per torrida, mi portò ad optare per una meta insolita: l’Austria. Era da tempo che desideravo prendere parte al <i>Salzburger Festspiele</i>, il più importante festival di musica classica che si tiene in Europa durante il periodo estivo. Il suo inizio è decretato solennemente dallo sventolio di centinaia di bandierine rosse e bianche su tutti gli autobus cittadini e dallo srotolio dei tappeti rossi davanti ai teatri. 
 
 Già pregustavo la sinfonia n.1 in Re maggiore di Gustav Mahler, composta da quattro movimenti e scritta sul finire del diciannovesimo secolo, e un concerto avanguardista del compositore ligure Luciano Berio. L’evento salisburghese è solito radunare tutta l’aristocrazia nord europea. Uno sfoggio scintillante di auto di lusso - tutte della stessa manifattura - invase le strade cittadine e ogni suo idilliaco anfratto. Attempati uomini in smoking e donne fasciate da costosissimi tessuti sostavano nei foyer dei teatri d'opera, in attesa di assistere al loro spettacolo.
@@ -31,3 +29,5 @@ Mi prese per mano e iniziò a baciarmela, sussurrando al suo autista qualche par
 Dopo quella notte, non riuscì più a contattarla. Sembrava svanita nel nulla. Forse fu solo il delirante parto della mia attività onirica. In verità venni a sapere che si chiamava Henrichetta Von Bulov ed era una vedova che aveva ereditato due miliardi di euro dal suo precedente matrimonio. Da quando era mancato suo marito non aveva trascorso più di una notte con lo stesso uomo. 
 
 La vicenda mi fece venire in mente Shahriyār, il re persiano protagonista della celebre raccolta di racconti orientali “Le mille e una notte”. Ero andato incontro ad una morte certa e l’avevo scampata. 
+
+(Dedicato a Mar, ovvero la signorina Baratro)
