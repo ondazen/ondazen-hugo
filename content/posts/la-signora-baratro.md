@@ -17,7 +17,7 @@ La signorina Baratro lavora in un piccolo studio legale della capitale in qualit
 La signorina Baratro, a metà mattina, si reca al distributore automatico di snack con la sua collega del cuore - più giovane di lei di almeno un decennio - 
 che le fornisce preziosi consigli su come accalappiare piacenti uomini tramite app di incontri. Finora ha collezionato le seguenti categorie: uomini sposati; uomini divorziati che non ne accettano l’idea; uomini in procinto di sposarsi, che cercano l’ultima scappatella; donnaioli seriali; giovani uomini che si fingono anziani; settuagenari che agognano l’ultima scintilla di un deliquio erotico oramai dimenticato. 
 
-La signorina Baratro non esce mai a pranzo con i suoi colleghi. Consuma i rimasugli della sera precedente - solitamente del pollo lesso accompagnato da verdure bollite e qualche galletta di mais rinsecchita - leggendo un romanzo erotico dozzinale, acquistato al mercatino dell’usato, che si tiene ogni domenica di fine mese.
+La signorina Baratro non esce mai a pranzo con i suoi colleghi. Consuma i rimasugli della sera precedente - solitamente del pollo lesso accompagnato da verdure bollite e qualche galletta di mais rinsecchita - leggendo un romanzo erotico dozzinale, acquistato al mercatino dell’usato, che si tiene ogni domenica di fine mese nel suo quartiere periferico.
 
 La signorina Baratro, dopo aver desinato, si concentra sulle sue scartoffie fino all’orario di uscita, evitando qualsiasi tipo di distrazione. Ripone il cellulare nella sua borsa finto Prada e indossa un paio di auricolari che la isolano da qualsiasi rumore esterno. A volte anche il suo capo ha difficoltà a rintracciarla e deve recarsi alla sua scrivania per poter comunicare con lei.
 
