@@ -30,4 +30,4 @@ Dopo quella notte, non riuscì più a contattarla. Sembrava svanita nel nulla. F
 
 La vicenda mi fece venire in mente Shahriyār, il re persiano protagonista della celebre raccolta di racconti orientali “Le mille e una notte”. Ero andato incontro ad una morte certa e l’avevo scampata. 
 
-(Dedicato a Mar, ovvero la signorina Baratro)
+(<u>Dedicato a Mar, ovvero la signorina Baratro</u>)
